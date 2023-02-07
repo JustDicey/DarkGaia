@@ -1,2 +1,4 @@
-add mod.ini
 add raw/boss/giant01.pac
+add raw/boss/cylinder01.pac
+add raw/event/scene/bo1xxx.pac
+add mod.ini
