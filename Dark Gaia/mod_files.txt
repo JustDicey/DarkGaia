@@ -1,7 +1,3 @@
-add raw/boss/giant01.pac
-add raw/boss/cylinder01.pac
-add raw/event/scene/bo1xxx.pac
-add mod.ini
 add raw/text/text_common_de.pac
 add raw/text/text_common_en.pac
 add raw/text/text_common_es.pac
@@ -13,4 +9,10 @@ add raw/text/text_common_pl.pac
 add raw/text/text_common_pt.pac
 add raw/text/text_common_ru.pac
 add raw/text/text_common_zh.pac
+add raw/boss/giant01.pac
+add raw/boss/rifle01.pac
+add mod.ini
 add raw/text/text_common_zhs.pac
+
+
+
