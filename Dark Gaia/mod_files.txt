@@ -23,4 +23,4 @@ add raw/text/text_common_ko.pac
 add raw/event/scene/bo1xxx.pac
 add raw/event/scene/bo4xxx.pac
 add mod.ini
-remove add raw/mod.ini
+remove raw/mod.ini
