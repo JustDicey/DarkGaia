@@ -1,3 +1,8 @@
+## Dark Gaia v2.1
+- Recolored Effects for Perfect Dark Gaia
+  * Unfortunatly I couldn't quite figure out what CEMT is responsible for the Homing Lasers (The answer is not Obvious Unfortunatly)
+- Added Super Sonic V.S Dark Gaia over I'm Here
+
 ## Dark Gaia v2.0
 - Added Perfect Dark Gaia name over Supreme
 - Added Perfect Dark Gaia name over Supreme W/ Language Support
