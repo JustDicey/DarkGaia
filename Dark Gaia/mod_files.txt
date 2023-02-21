@@ -10,7 +10,6 @@ add raw/text/text_common_pt.pac
 add raw/text/text_common_ru.pac
 add raw/text/text_common_zh.pac
 add raw/text/text_common_zhs.pac
-add mod.ini
 add raw/boss/cylinder01.pac
 add raw/boss/giant01.pac
 add raw/boss/rifle01.pac
@@ -23,3 +22,4 @@ add raw/text/text_common_ja.pac
 add raw/text/text_common_ko.pac
 add raw/event/scene/bo1xxx.pac
 add raw/event/scene/bo4xxx.pac
+add mod.ini
