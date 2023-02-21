@@ -1,3 +1,21 @@
+add raw/event/scene/zev_rfl_bitlaser01.pac
+add raw/event/scene/zev_rfl_bitlaser02.pac
+add raw/event/scene/zev_rfl_shoot01.pac
+add raw/event/scene/zev_rfl_shoot02.pac
+add raw/event/scene/zev_rfl_sp00.pac
+add raw/sound/rifle01_sound/bgm_boss04.acb
+add raw/sound/rifle01_sound/bgm_boss04.awb
+add raw/text/text_common_pl.pac
+add raw/text/text_common_pt.pac
+add raw/text/text_common_ru.pac
+add raw/text/text_common_zh.pac
+add raw/text/text_common_zhs.pac
+add mod.ini
+add raw/boss/cylinder01.pac
+add raw/boss/giant01.pac
+add raw/boss/rifle01.pac
+add raw/event/scene/bo1xxx.pac
+add raw/event/scene/bo4xxx.pac
 add raw/text/text_common_de.pac
 add raw/text/text_common_en.pac
 add raw/text/text_common_es.pac
@@ -5,14 +23,3 @@ add raw/text/text_common_fr.pac
 add raw/text/text_common_it.pac
 add raw/text/text_common_ja.pac
 add raw/text/text_common_ko.pac
-add raw/text/text_common_pl.pac
-add raw/text/text_common_pt.pac
-add raw/text/text_common_ru.pac
-add raw/text/text_common_zh.pac
-add raw/boss/giant01.pac
-add raw/boss/rifle01.pac
-add mod.ini
-add raw/text/text_common_zhs.pac
-
-
-
