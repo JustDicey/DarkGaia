@@ -1,7 +1,3 @@
-add raw/text/text_common_pl.pac
-add raw/text/text_common_pt.pac
-add raw/text/text_common_ru.pac
-add raw/text/text_common_zh.pac
 add raw/text/text_common_zhs.pac
 add raw/text/text_common_de.pac
 add raw/text/text_common_en.pac
@@ -12,3 +8,6 @@ add raw/text/text_common_ja.pac
 add raw/text/text_common_ko.pac
 add mod.ini
 add raw/boss/rifle01.pac
+add raw/text/text_common_pl.pac
+add raw/text/text_common_pt.pac
+add raw/text/text_common_zh.pac
