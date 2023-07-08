@@ -1,6 +1,7 @@
+## Dark Gaia v2.2.2
+- Update 2 Compatibility
 ## Dark Gaia v2.2
 - Improved Materials on Perfect Dark Gaia (Removed Green Eye, Improved Emission, New Eye texture)
-
 ## Dark Gaia v2.1
 - Recolored Effects for Perfect Dark Gaia
   * Unfortunatly I couldn't quite figure out what CEMT is responsible for the Homing Lasers (The answer is not Obvious Unfortunatly)
