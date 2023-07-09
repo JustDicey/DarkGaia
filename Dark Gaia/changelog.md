@@ -1,3 +1,5 @@
+## Dark Gaia v2.2.2.1.35
+- Fixed the Issue where Perfect Dark Gaia would crash Ouranus Island 
 ## Dark Gaia v2.2.2
 - Update 2 Compatibility
 ## Dark Gaia v2.2
